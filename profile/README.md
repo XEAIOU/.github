@@ -8,13 +8,25 @@
   UNAUTHORIZED ACCESS WILL BE PROSECUTED AND SANCTIONED
 
 ───────────────────────────────────────────────────────────────────────────────
+                              SECURITY NOTICE
+───────────────────────────────────────────────────────────────────────────────
+
+  ╔═════════════════════════════════════════════════════════════════════════╗
+  ║ CAUTION: MEMETIC COUNTERMEASURES ARE ACTIVE.                            ║
+  ║                                                                         ║
+  ║ Unauthorized disclosure attempts will result in immediate cognitive     ║
+  ║ intervention and asset termination.                                     ║
+  ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+───────────────────────────────────────────────────────────────────────────────
                                   OVERVIEW
 ───────────────────────────────────────────────────────────────────────────────
 
-  XAEIOU Cyber Industries is a privately-held research institution operating
-  at the convergence of computational systems, temporal mechanics, and
-  thaumaturgic engineering. Established under classified charter, our
-  facilities conduct advanced research into non-conventional methodologies
+  XAEIOU Cyber Industries is a privately-held research and development 
+  institution operating at the convergence of computational systems, temporal 
+  mechanics, andthaumaturgic engineering. Established under classified charter, 
+  our facilities conduct advanced research into non-conventional methodologies
   for asymmetric operational advantage.
 
   Our work remains compartmentalized from conventional defense and intelligence
@@ -58,24 +70,6 @@
   │ causative initialization. Retroactive intervention and acausal          │
   │ influence operations are now viable tactical options.                   │
   └─────────────────────────────────────────────────────────────────────────┘
-
-───────────────────────────────────────────────────────────────────────────────
-                              SECURITY NOTICE
-───────────────────────────────────────────────────────────────────────────────
-
-  ╔═════════════════════════════════════════════════════════════════════════╗
-  ║ WARNING: All personnel with knowledge of Seance operations are subject  ║
-  ║ to ongoing monitoring. Discussion of platform capabilities outside      ║
-  ║ designated secure facilities constitutes a breach of containment        ║
-  ║ protocols.                                                              ║
-  ╚═════════════════════════════════════════════════════════════════════════╝
-
-  ╔═════════════════════════════════════════════════════════════════════════╗
-  ║ CAUTION: MEMETIC COUNTERMEASURES ARE ACTIVE.                           ║
-  ║                                                                         ║
-  ║ Unauthorized disclosure attempts will result in immediate cognitive     ║
-  ║ intervention and asset termination.                                     ║
-  ╚═════════════════════════════════════════════════════════════════════════╝
 
 ───────────────────────────────────────────────────────────────────────────────
                            RESEARCH DIRECTORATES
