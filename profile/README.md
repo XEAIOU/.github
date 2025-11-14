@@ -19,13 +19,7 @@
 
   Our work remains compartmentalized from conventional defense and intelligence
   apparatus. We do not exist in public records.
-```
 
-<p align="center">
-<img src="AdditiveColorMixing.svg" width="150"/>
-</p>
-
-```
 ───────────────────────────────────────────────────────────────────────────────
                             THE SEANCE PLATFORM
 ───────────────────────────────────────────────────────────────────────────────
@@ -64,9 +58,7 @@
   │ causative initialization. Retroactive intervention and acausal          │
   │ influence operations are now viable tactical options.                   │
   └─────────────────────────────────────────────────────────────────────────┘
-```
 
-```
 ───────────────────────────────────────────────────────────────────────────────
                               SECURITY NOTICE
 ───────────────────────────────────────────────────────────────────────────────
@@ -84,9 +76,7 @@
   ║ Unauthorized disclosure attempts will result in immediate cognitive     ║
   ║ intervention and asset termination.                                     ║
   ╚═════════════════════════════════════════════════════════════════════════╝
-```
 
-```
 ───────────────────────────────────────────────────────────────────────────────
                            RESEARCH DIRECTORATES
 ───────────────────────────────────────────────────────────────────────────────
@@ -102,9 +92,7 @@
 
   [CEL] Causal Engineering Laboratory
         >> Loop stabilization and paradox mitigation
-```
 
-```
 ───────────────────────────────────────────────────────────────────────────────
                                   CONTACT
 ───────────────────────────────────────────────────────────────────────────────
@@ -131,3 +119,7 @@
 
 ═══════════════════════════════════════════════════════════════════════════════
 ```
+
+<p align="center">
+<img src="AdditiveColorMixing.svg" width="150"/>
+</p>
